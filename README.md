@@ -1,9 +1,8 @@
 # pyproto
 
-####**This repository is for different python protocol and its examples** 
+**This repository is for different python protocol and its examples** 
 
-### HTTP Protocol
-  > [What is HTTP?](https://www.geeksforgeeks.org/get-post-requests-using-python/)
+### [HTTP Protocol](https://www.geeksforgeeks.org/get-post-requests-using-python/)
   > HTTP is a set of protocols designed to enable communication between clients and servers. It works as a request-response         protocol between a client and server.A web browser may be the client, and an application on a computer that hosts a web site may be the server.
 So, to request a response from the server, there are mainly two methods:
 >
